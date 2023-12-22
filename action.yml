@@ -1,5 +1,5 @@
 name: 'deploy-commerce'
-description: 'Action to deploy stacks'
+description: 'Action to deploy stacks to commerce'
 author: Hugo Lemos da Silva
 branding:
   icon: 'bar-chart-2'
